@@ -1,5 +1,5 @@
 <div>
-  <img width="543" src="https://imgur.com/a/bEpDUhj" align="center"><br>
+  <img width="543" src="https://i.imgur.com/vXFxR58.png" align="center"><br>
   <h1 align="center"> Hello developers, i'm Maykon Kelm </h1>
 <div/>
 <div align="center">
